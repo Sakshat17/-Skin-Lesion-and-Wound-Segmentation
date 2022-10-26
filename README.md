@@ -5,14 +5,14 @@ Obtained Dice coefficient as high as 93.75% on certain datasets and concluded wh
 better on a particular medical dataset.</Br>
 
 # Learning curve and Progress
-*Fundamental of Deep Learning - Backpropagation, Convolution, Pooling, Activation Functions, etc. </Br>
-*Evaluation Metrics - Accuracy, Precision, Recall, IOU, DSC </Br>
-*Image Segmentation Models - UNet, SegNet and Deeplabv3 (for ISIC 2016 Skin lesion segmentation) </Br>
-*Class Activation Maps - GradCam and ScoreCam (using VGG16 on a Kaggle dataset) </Br>
-*Selected some Medical image segmentation datasets - DRIVE, Foot Ulcer Segmentation, COVID19 - I, COVID19 - II, ISIC 2016 & Cardiac MR  </Br>
-*Computation of results using baseline segmentation models and their comparison </Br>
-*Developing insights - Focused on improving accuracy by understanding input parameters and model architecture </Br>
-*Paving way for future improvements on various datasets using the knowledge gained </Br>
+* Fundamental of Deep Learning - Backpropagation, Convolution, Pooling, Activation Functions, etc. </Br>
+* Evaluation Metrics - Accuracy, Precision, Recall, IOU, DSC </Br>
+* Image Segmentation Models - UNet, SegNet and Deeplabv3 (for ISIC 2016 Skin lesion segmentation) </Br>
+* Class Activation Maps - GradCam and ScoreCam (using VGG16 on a Kaggle dataset) </Br>
+* Selected some Medical image segmentation datasets - DRIVE, Foot Ulcer Segmentation, COVID19 - I, COVID19 - II, ISIC 2016 & Cardiac MR  </Br>
+* Computation of results using baseline segmentation models and their comparison </Br>
+* Developing insights - Focused on improving accuracy by understanding input parameters and model architecture </Br>
+* Paving way for future improvements on various datasets using the knowledge gained </Br>
 
 # Results and Highlights 
 ![image](https://user-images.githubusercontent.com/71214127/197967196-78b93ebb-32e9-4690-9a4f-18bc165faedb.png)
