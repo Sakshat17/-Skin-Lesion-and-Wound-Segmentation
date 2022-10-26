@@ -1,7 +1,7 @@
 # Skin-Lesion-and-Wound-Segmentation
-Determined lesions and wounds’ outline by semantic image segmentation in Dermoscopic and Medical images using and modifying various deep learning architectures to overcome certain specific challenges like low contrast, obscure lesion boundaries
+* Determined lesions and wounds’ outline by semantic image segmentation in Dermoscopic and Medical images using and modifying various deep learning architectures to overcome certain specific challenges like low contrast, obscure lesion boundaries
 etc in medical images.</Br>
-Obtained Dice coefficient as high as 93.75% on certain datasets and concluded which architecture and loss function performs
+* Obtained Dice coefficient as high as 93.75% on certain datasets and concluded which architecture and loss function performs
 better on a particular medical dataset.</Br>
 
 # Learning curve and Progress
@@ -29,8 +29,8 @@ better on a particular medical dataset.</Br>
 ![image](https://user-images.githubusercontent.com/71214127/197968291-c15d7cf4-6192-44ca-b0bb-279b3d6b8d8c.png)
 </Br>
 # Future Work  
-As we’ve understood  layer-wise input parameters of the various segmentation models, we plan to perform model wise parameters’ comparison on more medical segmentation datasets in order to look into scope of improvement in any of the architecture</Br>
-Look into tools for improvement of segmentation results as Class Activation Maps (CAMs) does for the image classification problem since the explainability in segmentation problems is comparatively less explored.</Br>
-In future, we plan to dig deeper in comparing  various baseline models results with type of medical dataset as to get an estimate of which model will perform better by doing some qualitative(image shape, type, etc.) analysis of the training and the test data’s images.</Br> 
+* As we’ve understood  layer-wise input parameters of the various segmentation models, we plan to perform model wise parameters’ comparison on more medical segmentation datasets in order to look into scope of improvement in any of the architecture</Br>
+* Look into tools for improvement of segmentation results as Class Activation Maps (CAMs) does for the image classification problem since the explainability in segmentation problems is comparatively less explored.</Br>
+* In future, we plan to dig deeper in comparing  various baseline models results with type of medical dataset as to get an estimate of which model will perform better by doing some qualitative(image shape, type, etc.) analysis of the training and the test data’s images.</Br> 
 
 
